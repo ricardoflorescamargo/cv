@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591438519086.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3966310035",
+    "id" : "DB5445F6",
+    "lastKnownWriteTime" : 1591442154,
+    "last_content_update" : 1591442154356,
+    "path" : "C:/Users/USUARIO/Desktop/pagina4/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "239,0",
+        "scrollLine" : "221"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
